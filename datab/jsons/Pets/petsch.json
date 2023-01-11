@@ -1,0 +1,63 @@
+[
+  {
+    "id": "558594037877@s.whatsapp.net",
+    "pet": "doctor",
+    "vida": "200",
+    "foto": "https://telegra.ph/file/88c2f20bc89953237ef95.jpg",
+    "equipamento": "Nenhum",
+    "proteção": "Nenhuma",
+    "sexo": "Fêmea",
+    "habilidade": "Razepet",
+    "tipo": "Fogo",
+    "statu": "Vivo"
+  },
+  {
+    "id": "559185841876@s.whatsapp.net",
+    "pet": "cu",
+    "vida": "200",
+    "foto": "https://telegra.ph/file/88c2f20bc89953237ef95.jpg",
+    "equipamento": "Nenhum",
+    "proteção": "Ativada",
+    "sexo": "Fêmea",
+    "habilidade": "Nenhuma",
+    "tipo": "Água",
+    "statu": "Vivo",
+    "energia": "NaN"
+  },
+  {
+    "id": "558592618106@s.whatsapp.net",
+    "pet": "GhostFake",
+    "vida": "200",
+    "foto": "https://telegra.ph/file/88c2f20bc89953237ef95.jpg",
+    "equipamento": "Nenhum",
+    "proteção": "Nenhuma",
+    "sexo": "Fêmea",
+    "habilidade": "Razepet",
+    "tipo": "Gelo",
+    "statu": "Vivo"
+  },
+  {
+    "id": "558591530111@s.whatsapp.net",
+    "pet": "trax",
+    "vida": "200",
+    "foto": "https://telegra.ph/file/88c2f20bc89953237ef95.jpg",
+    "equipamento": "Nenhum",
+    "proteção": "Nenhuma",
+    "sexo": "Fêmea",
+    "habilidade": "Nenhuma",
+    "tipo": "Água",
+    "statu": "Vivo"
+  },
+  {
+    "id": "556493329088@s.whatsapp.net",
+    "pet": "ner",
+    "vida": "110",
+    "foto": "https://telegra.ph/file/88c2f20bc89953237ef95.jpg",
+    "equipamento": "Nenhum",
+    "proteção": "Nenhuma",
+    "sexo": "Fêmea",
+    "habilidade": "Nenhuma",
+    "tipo": "Fogo",
+    "statu": "Vivo"
+  }
+]

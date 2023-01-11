@@ -1,0 +1,36 @@
+[
+  {
+    "clan": "akatsuki",
+    "level": 4000,
+    "attacks": 4,
+    "id": [
+      "558592492932@s.whatsapp.net"
+    ]
+  },
+  {
+    "clan": "hyuuga",
+    "level": 0,
+    "attacks": 0,
+    "id": []
+  },
+  {
+    "clan": "otsutsuki",
+    "level": 0,
+    "attacks": 0,
+    "id": []
+  },
+  {
+    "clan": "uchiha",
+    "level": 2000,
+    "attacks": 2,
+    "id": [
+      "559185841876@s.whatsapp.net"
+    ]
+  },
+  {
+    "clan": "uzumaki",
+    "level": 4000,
+    "attacks": 4,
+    "id": []
+  }
+]
